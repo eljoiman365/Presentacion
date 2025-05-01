@@ -1,13 +1,15 @@
-Presentación ¡Hola, bienvenido a mi primera página web!
+## Presentación 
 
-Herramientas utilizadas:
+¡Hola, bienvenido a mi primera página web!
 
--HTML
+## 🧰 Herramientas utilizadas:
 
--CSS
+🔵HTML
+
+🔵CSS
 
 Esta página contiene una breve presentación sobre mi, donde se describe parte de mi currículum y algunos gustos personales.
 
-Hecho por:
-Yorman Corba
-Linkedin: www.linkedin.com/in/yorman-corba-143b13220
+## Hecho por:
+
+👾 Yorman Corba 👾 -  💼 Linkedin: [www.linkedin.com/in/yorman-corba-143b13220](https://www.linkedin.com/in/yorman-estiben-corba-casta%C3%B1o-143b13220/)
